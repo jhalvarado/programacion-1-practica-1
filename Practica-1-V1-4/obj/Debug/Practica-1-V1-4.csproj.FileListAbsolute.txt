@@ -1,0 +1,5 @@
+c:\users\jhosep alvarado\documents\visual studio 2013\Projects\Practica-1-V1-4\Practica-1-V1-4\bin\Debug\Practica-1-V1-4.exe.config
+c:\users\jhosep alvarado\documents\visual studio 2013\Projects\Practica-1-V1-4\Practica-1-V1-4\bin\Debug\Practica-1-V1-4.exe
+c:\users\jhosep alvarado\documents\visual studio 2013\Projects\Practica-1-V1-4\Practica-1-V1-4\bin\Debug\Practica-1-V1-4.pdb
+c:\users\jhosep alvarado\documents\visual studio 2013\Projects\Practica-1-V1-4\Practica-1-V1-4\obj\Debug\Practica-1-V1-4.exe
+c:\users\jhosep alvarado\documents\visual studio 2013\Projects\Practica-1-V1-4\Practica-1-V1-4\obj\Debug\Practica-1-V1-4.pdb
